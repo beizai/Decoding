@@ -1,5 +1,5 @@
 # Decoding
-This is the code and data of *<Unraveling Hierarchical Neural Encoding of Dynamic Visual Scenes with Deep Learning Decoding Models>*
+This is the code and data of **Unraveling Hierarchical Neural Encoding of Dynamic Visual Scenes with Deep Learning Decoding Models**
 
 ## Preparation
 Download the training data example from [Google Drive](https://drive.google.com/drive/folders/1SAaq6XAOt6bayl_9PdR7vdASDFMliyYN?usp=drive_link)
