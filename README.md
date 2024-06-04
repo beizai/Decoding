@@ -21,8 +21,6 @@ This will calculate SSIM and PSNR of the results and the decoding figures will b
 <br>
 
 ![origin Figure](./figs/origin_VISp_0.jpg)
-
-<br>
 ![Decoding Figure](./figs/result_VISp_0.jpg)
 
 ## License
