@@ -18,6 +18,8 @@ The training result will be stored in ./paper_results and ./model_weights
 run
 `python test.py`
 This will calculate SSIM and PSNR of the results and the decoding figures will be stored in ./figs
+
+
 ![origin Figure](./figs/origin_VISp_0.jpg)
 ![Decoding Figure](./figs/result_VISp_0.jpg)
 
